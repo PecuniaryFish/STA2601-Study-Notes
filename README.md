@@ -1,4 +1,4 @@
-STA2601 Applied Satistics II
+STA2601 Applied Statistics II
 =
 Study Notes
 -
